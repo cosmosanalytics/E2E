@@ -36,7 +36,6 @@ No build step, dependencies, or backend required:
 ## 📋 Included Files
 
 * **`index.html` / `callcenter_ai_touchpoints_studio.html`**: The main toy touchpoints studio.
-* **`build_callcenter_touchpoints_studio.py`**: Python script that generated the HTML.
 * **`callcenter_ai_voice_agents.html`**: Toy visual graph simulator for sample call scenarios.
 * **`callcenter_macro_graph_studio.html`**: Visual prototype for contact center flow graphs.
 
